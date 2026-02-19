@@ -1,2 +1,3 @@
-# advanced-devops-toolkit-hm9x
-Automated issue comment bot repository
+# Advanced Devops Toolkit Hm9X
+
+Automated issue comment bot repository.
